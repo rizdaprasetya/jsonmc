@@ -1,0 +1,32 @@
+{
+  "name": "Anna",
+  "year": 2019,
+  "runtime": 119,
+  "categories": [
+    "action",
+    "thriller"
+  ],
+  "release-date": "2019-06-20",
+  "director": "Luc Besson",
+  "writer": [
+    "Luc Besson"
+  ],
+  "actors": [
+    "Sasha Luss",
+    "Helen Mirren",
+    "Luke Evans",
+    "Cillian Murphy",
+    "Lera Abova",
+    "Alexander Petrov",
+    "Nikita Pavlenko",
+    "Anna Krippa",
+    "Aleksey Maslodudov",
+    "Eric Godon",
+    "Ivan Franek",
+    "Jean-Baptiste Puech",
+    "Adrian Can",
+    "Alison Wheeler",
+    "Andrew Howard"
+  ],
+  "storyline": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins."
+}
